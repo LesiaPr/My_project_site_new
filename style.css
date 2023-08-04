@@ -41,19 +41,19 @@ body {
 }
 
 .image-icon:nth-of-type(1) {
-  background-image: url(../../My_project_site_new/image/hoverla/hoverla1.jpg);
+  background-image: url(/image/hoverla/hoverla1.jpg);
 }
 .image-icon2:nth-of-type(1) {
-  background-image: url(../My_project_site_new/image/pamir/pamir1.jpg);
+  background-image: url(/image/pamir/pamir1.jpg);
 }
 .image-icon3:nth-of-type(1) {
-  background-image: url(../My_project_site_new/image/spitsy/spitsy2.jpg);
+  background-image: url(/image/spitsy/spitsy2.jpg);
 }
 .image-icon4:nth-of-type(1) {
-  background-image: url(../My_project_site_new/image/synevir/synevir1.jpg);
+  background-image: url(/image/synevir/synevir1.jpg);
 }
 .image-icon5:nth-of-type(1) {
-  background-image: url(../My_project_site_new/image/pipivan/pipivan2.jpg);
+  background-image: url(/image/pipivan/pipivan2.jpg);
 }
 
 .container-image:hover .image-icon,
